@@ -1,0 +1,25 @@
+{
+  "name": "amplify-i18n",
+  "version": "1.0.0",
+  "description": "Translations for AWS Amplify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Locale/amplify-i18n.git"
+  },
+  "keywords": [
+    "AWS",
+    "Amplify",
+    "i18n",
+    "Locale"
+  ],
+  "author": "Locale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Locale/amplify-i18n/issues"
+  },
+  "homepage": "https://github.com/Locale/amplify-i18n#readme"
+}
