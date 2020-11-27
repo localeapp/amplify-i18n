@@ -1,8 +1,8 @@
 {
   "name": "amplify-i18n",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Translations for AWS Amplify",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,10 +16,14 @@
     "i18n",
     "Locale"
   ],
-  "author": "Locale",
+  "author": "Locale (https://locale.to)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Locale/amplify-i18n/issues"
   },
-  "homepage": "https://github.com/Locale/amplify-i18n#readme"
+  "homepage": "https://github.com/Locale/amplify-i18n#readme",
+  "peerDependencies": {
+    "@aws-amplify/core": "^3.0.0",
+    "@aws-amplify/ui-components": "^0.3.0"
+  }
 }
