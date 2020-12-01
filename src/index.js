@@ -8,8 +8,8 @@ const LOCALES = [
   "fr",
   "pt-BR",
   "ru",
-  "zh-hans",
-  "zh-hant",
+  "zh-Hans",
+  "zh-Hant",
 ]
 
 export default class AmplifyI18n {
