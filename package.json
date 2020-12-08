@@ -1,6 +1,6 @@
 {
   "name": "amplify-i18n",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Translations for AWS Amplify",
   "main": "./src/index.js",
   "scripts": {
