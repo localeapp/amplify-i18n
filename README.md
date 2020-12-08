@@ -42,6 +42,10 @@ Currently the following locales are available:
 | en | English |
 | es | Spanish |
 | fr | French |
+| it | Italian |
+| ja | Japanese |
+| ko | Korean |
+| nl | Dutch |
 | pt-BR | Portuguese (Brazil)
 | ru | Russian
 | zh-Hans | Simplified Chinese
