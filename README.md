@@ -38,10 +38,12 @@ Amplify I18n follows the Best Current Practice 47 (BCP47) _Tags for Identifying 
 Currently the following locales are available:
 | Tag | Language|
 | -| -|
+| ar | Arabic |
 | de | German |
 | en | English |
 | es | Spanish |
 | fr | French |
+| he | Hebrew |
 | it | Italian |
 | ja | Japanese |
 | ko | Korean |

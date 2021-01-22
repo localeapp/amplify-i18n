@@ -2,10 +2,12 @@ import { I18n } from "aws-amplify";
 import { Translations } from "@aws-amplify/ui-components";
 
 const LOCALES = [
+  "ar",
   "de",
   "en",
   "es",
   "fr",
+  "he",
   "pt-BR",
   "ru",
   "zh-Hans",
