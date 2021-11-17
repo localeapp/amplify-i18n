@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Locale/amplify-i18n#readme",
   "peerDependencies": {
-    "@aws-amplify/core": "^3.0.0",
-    "@aws-amplify/ui-components": "^0.3.0"
+    "@aws-amplify/core": ">=3.0.0",
+    "@aws-amplify/ui-components": ">=0.3.0"
   }
 }
